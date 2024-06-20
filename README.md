@@ -23,7 +23,7 @@ This project is a profile card created using HTML and CSS. The card includes a p
 
 ## Preview
 
-![Profile Card](images/Prince.png)
+![Profile Card](Prince.png)
 
 ## Dependencies
 
